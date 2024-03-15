@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111778015542",
+    "project_id": "devmobile-5e5c2",
+    "storage_bucket": "devmobile-5e5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111778015542:android:040af304f33c6b4e20eb97",
+        "android_client_info": {
+          "package_name": "com.example.m2_devmobile_munoz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBKo_4ip-1t49yRXEygVa261_yL3nYD6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
